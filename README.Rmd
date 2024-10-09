@@ -154,4 +154,4 @@ See file examples: "TAFs1_CLQ_Normalized_L0_R0.05". L0 = left clipping parameter
 Note that the folder contains only a subset of the distribution plots.
 
 ## Getting help
-If you encounter a bug, please file an issue with a minimal reproducible example on [GitHub](https://github.com/plevritis-lab/Spatial_Permutation/issues). For questions and other discussion, please use [community.rstudio.com](https://community.rstudio.com/). 
+If you encounter a bug, please file an issue with a minimal reproducible example on [GitHub](https://github.com/plevritis-lab/Spatial_Permutation_and_Normalization/issues). For questions and other discussion, please use [community.rstudio.com](https://community.rstudio.com/). 
